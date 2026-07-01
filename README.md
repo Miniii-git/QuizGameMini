@@ -36,6 +36,7 @@ Quiz App is an interactive web application that fetches trivia questions from th
 
 ## Screenshots
 
+<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/70237239-1988-43d6-821d-572e1fdbb374" />
 <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/11696fbc-106b-4d92-af22-c88321186e3e" />
 <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/109bb658-18f7-4f51-99bd-4cf4160afefc" />
 <img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/2d5a8301-9815-4615-80fe-43aae8e50c8e" />
