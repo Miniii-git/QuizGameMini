@@ -2,7 +2,7 @@
 
 ## Overview
 
-Quiz App is an interactive web application that fetches trivia questions from the Open Trivia Database (OpenTDB) API. Users can customize difficulty levels to test their knowledge while tracking their score in real time. The application retrieves questions dynamically through the API, providing a different experience each time the quiz is played. :contentReference[oaicite:0]{index=0}
+Quiz App is an interactive web application that fetches trivia questions from the Open Trivia Database (OpenTDB) API. Users can customize difficulty levels to test their knowledge while tracking their score in real time. The application retrieves questions dynamically through the API, providing a different experience each time the quiz is played.
 
 ---
 
